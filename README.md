@@ -18,7 +18,7 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 - BCA (2020), MSc IT & CA (2022)
 - Aspiring Python Developer
 - Passionate about Data Analytics & Continuous Learning
-- [My LinkedIn Profile](www.linkedin.com/in/daxa-sondarva-292a63372)
+- [My LinkedIn Profile] www.linkedin.com/in/daxa-sondarva-292a63372
 
 ## Stay Connected
 Your feedback, suggestions, and collaboration ideas are always welcome!
