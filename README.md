@@ -9,6 +9,8 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 |-----|------------------------------|-----------------------------------|
 | 1   | Introduction to Python       | Variables, print(), data types    |
 | 2   | User Input & Type Conversion | input(), int(), f-strings         |
+| 3   | Python Basics Summary         | All basic concepts in one file   |
+
 
 
 
