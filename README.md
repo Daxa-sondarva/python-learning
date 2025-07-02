@@ -1,2 +1,16 @@
-# python-learning
-My Python practice files – #100DaysOfCode journey
+# Python Learning Journey 
+
+This repository contains all my Python practice files as part of my #100DaysOfCode challenge.  
+I am learning Python step by step and uploading my daily/weekly progress here.
+
+## Topics Covered So Far:
+- Day 1: Introduction to Python (variables, print statement, data types)
+
+## About Me
+- BCA (2020), MSc IT & CA (2022)
+- Aspiring Python Developer
+- Passionate about Data Analytics & Continuous Learning
+- [My LinkedIn Profile](www.linkedin.com/in/daxa-sondarva-292a63372)
+
+## Stay Connected
+Your feedback, suggestions, and collaboration ideas are always welcome!
