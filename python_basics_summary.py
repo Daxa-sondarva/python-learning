@@ -38,7 +38,7 @@ message = " Hello Python "
 print(message.strip().upper())
 
 # 6. Lists
-print("\n🟢 Lists")
+print("\n Lists")
 fruits = ["apple", "banana", "mango"]
 fruits.append("orange")
 print(fruits)
