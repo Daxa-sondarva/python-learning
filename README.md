@@ -3,9 +3,13 @@
 This repository contains all my Python practice files as part of my #100DaysOfCode challenge.  
 I am learning Python step by step and uploading my daily/weekly progress here.
 
-## Topics Covered So Far:
-- Day 1: Introduction to Python (variables, print statement, data types)
-- | 2   | User Input & Type Conversion | input(), int(), f-strings |
+## 📚 Topics Covered So Far
+
+| Day | Topic                        | Description                       |
+|-----|------------------------------|-----------------------------------|
+| 1   | Introduction to Python       | Variables, print(), data types    |
+| 2   | User Input & Type Conversion | input(), int(), f-strings         |
+
 
 
 ## About Me
