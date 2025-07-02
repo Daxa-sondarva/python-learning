@@ -5,6 +5,8 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 
 ## Topics Covered So Far:
 - Day 1: Introduction to Python (variables, print statement, data types)
+- | 2   | User Input & Type Conversion | input(), int(), f-strings |
+
 
 ## About Me
 - BCA (2020), MSc IT & CA (2022)
