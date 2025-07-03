@@ -11,7 +11,8 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 2   | User Input & Type Conversion | input(), int(), f-strings         |
 | 3   | Python Basics Summary         | All basic concepts in one file   |
 | 4   | Operators in Python           | Arithmetic, Comparison, Logical, Assignment |
-| 5   | Conditional Statements         | if, elif, else, nested if, logic examples   |
+| 5   | Conditional Statements  + loops | if, elif, else, nested if,for, while, break, continue, logic examples   |
+
 
 
 
