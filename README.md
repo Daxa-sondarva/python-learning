@@ -11,8 +11,7 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 2   | User Input & Type Conversion | input(), int(), f-strings         |
 | 3   | Python Basics Summary         | All basic concepts in one file   |
 | 4   | Operators in Python           | Arithmetic, Comparison, Logical, Assignment |
-| 5   | (Coming Soon)                  |                                              |
-
+| 5   | Conditaional Statments       | Basic if statement, f-elif-else chain, Nested if|
 
 
 
