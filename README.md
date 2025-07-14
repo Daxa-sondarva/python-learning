@@ -32,6 +32,7 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 - Aspiring Python Developer
 - Passionate about Data Analytics & Continuous Learning
 - [My LinkedIn Profile] www.linkedin.com/in/daxa-sondarva-292a63372
+- [My Blog ] https://lnkd.in/dnRNycXd
 
 ## Stay Connected
 Your feedback, suggestions, and collaboration ideas are always welcome!
