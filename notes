@@ -3,6 +3,14 @@
 
 🔸 LEGB Rule in Python
 
+| Level | Scope Type | Value of `x`                     |
+| ----- | ---------- | -------------------------------- |
+| L     | Local      | `"Local X"` inside `inner()`     |
+| E     | Enclosing  | `"Enclosing X"` inside `outer()` |
+| G     | Global     | `"Global X"` outside functions   |
+| B     | Built-in   | `len()` is a built-in function   |
+
+
 ✅ One Program to Understand All Scopes
 
 🔵 Built-in
