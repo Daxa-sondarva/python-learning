@@ -1,0 +1,31 @@
+class fruits:
+    def fruits_method(self):
+        print("fruit method")
+
+
+class Banana(fruits):
+    def banana_method(self):
+        print("banana method")
+
+class Mango(fruits):
+    def namgo_method(self):
+        print("mango method")
+
+class Kivi(fruits):
+    def kivi_method(self):
+        print("kivi method")
+
+class Stroberry(fruits):
+    def stroberry_method(self):
+        print("stroberry method")
+
+
+
+banana = Banana()
+banana.fruits_method()
+mango = Mango()
+mango.fruits_method()
+kivi =Kivi()
+kivi.fruits_method()
+stroberry = Stroberry()
+stroberry.fruits_method()

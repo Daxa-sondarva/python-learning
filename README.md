@@ -15,7 +15,14 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 6   | range() + Pattern Printing     | range() variations, star patterns, heart , number patterns, letter D  |
 | 7   | Functions in Python           | def, return, parameters, default args,*args, **kwargs, lambda, pass-by-reference,      |
 |    | How to get function name in Python |using  function.__name__ , using  __qualname__ ,  and using function.func_name - only in python 2 |
-
+| 8   | Abstract Classes & Inheritance    | Using `ABC`, abstract methods, subclass implementation                      |
+| 9   | Constructor vs Method             | `__init__`, object creation with/without arguments                          |
+| 10  | File Handling (Text Files)        | open(), read(), write(), close(), using `with open()` block                 |
+| 11  | CSV File Handling                 | Reading/writing CSV using `csv.reader`, `csv.writer`                        |
+| 12  | Excel File Handling               | Creating `.xlsx`, writing headers/data using `openpyxl`                     |
+| 13  | Excel Data Read & Append          | Read data row-by-row, append new rows, save updates                         |
+| 14  | JSON File Handling                | Reading, writing, parsing JSON with `json.load()` & `json.dump()`           |
+| 15  | OOP + Project: Bank System        | Encapsulation, custom exceptions, secure PIN, deposit/withdraw, transfer    |
 
 
 ## About Me
