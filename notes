@@ -4,3 +4,15 @@
 🔸 LEGB Rule in Python
 
 ✅ One Program to Understand All Scopes
+
+🔵 Built-in
+│   → len(), print()
+│
+├── 🔴 Global
+│   → x = "Global"
+│
+├──── 🟠 Enclosing
+│   → def outer(): x = "Enclosing"
+│
+├─────── 🟢 Local
+│   → def inner(): x = "Local"
