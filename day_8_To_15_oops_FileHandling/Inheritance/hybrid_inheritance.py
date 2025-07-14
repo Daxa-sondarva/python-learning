@@ -1,22 +1,22 @@
 # Parent class
 class Vehicle:
     def vehicle_info(self):
-        print("🚗 This is a Vehicle")
+        print(" This is a Vehicle")
 
 # First Child class (inherits from Vehicle)
 class Car(Vehicle):
     def car_info(self):
-        print("🚘 This is a Car")
+        print(" This is a Car")
 
 # Second Child class (inherits from Vehicle)
 class Bike(Vehicle):
     def bike_info(self):
-        print("🏍️ This is a Bike")
+        print(" This is a Bike")
 
 # Another Child class (inherits from both Car and Bike)
 class HybridCar(Car, Bike):
     def hybrid_car_info(self):
-        print("🔋 This is a Hybrid Car")
+        print(" This is a Hybrid Car")
 
 # Creating object of HybridCar
 obj = HybridCar()

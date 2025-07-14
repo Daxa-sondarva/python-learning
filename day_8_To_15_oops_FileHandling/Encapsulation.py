@@ -2,7 +2,7 @@
 Encapsulation (Data Hiding & Access Control)
 Encapsulation means restricting direct access to certain attributes and allowing controlled access through methods.
 
-✅ Concepts:
+-> Concepts:
 Public Attributes (self.name) = Accessible from anywhere.
 
 Protected Attributes (self._name) = Should not be modified directly (convention only).
@@ -205,10 +205,10 @@ print(acc.menu())
 
 
 # Accessing public attributes
-# print(acc.account_holder)  # ✅ Works
+# print(acc.account_holder)  #  Works
 # Accessing protected attributes (Not recommended, but possible)
-# print(acc._balance)  # ✅ Works, but should be accessed through a method
-# Accessing private attributes (❌ Will raise an error)
-# print(acc.__pin)  # ❌ AttributeError
-# Trying to access a private method (❌ Will raise an error)
-# print(acc.__get_pin())  # ❌ AttributeError
+# print(acc._balance)  #  Works, but should be accessed through a method
+# Accessing private attributes ( Will raise an error)
+# print(acc.__pin)  #  AttributeError
+# Trying to access a private method ( Will raise an error)
+# print(acc.__get_pin())  #  AttributeError

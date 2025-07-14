@@ -8,7 +8,7 @@ class Banana(fruits):
         print("banana method")
 
 class Mango(fruits):
-    def namgo_method(self):
+    def mango_method(self):
         print("mango method")
 
 class Kivi(fruits):
@@ -23,9 +23,16 @@ class Stroberry(fruits):
 
 banana = Banana()
 banana.fruits_method()
+banana.banana_method()
+
 mango = Mango()
 mango.fruits_method()
+mango.mango_method()
+
 kivi =Kivi()
 kivi.fruits_method()
+kivi.kivi_method()
+
 stroberry = Stroberry()
 stroberry.fruits_method()
+stroberry.stroberry_method()

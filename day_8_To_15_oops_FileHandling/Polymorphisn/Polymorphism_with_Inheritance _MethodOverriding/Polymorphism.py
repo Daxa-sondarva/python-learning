@@ -3,17 +3,19 @@ class Bird:
         print("Birds make different sounds")
 
 class Sparrow(Bird):
+    #It overrides the speak() method.
     def speak(self):
-        print("Chirp Chirp 🐦")
+        print("Chirp Chirp ")
 
 class Parrot(Bird):
+    #It overrides the speak() method.
     def speak(self):
-        print("Squawk! 🦜")
+        print("Squawk! ")
 
 # Creating objects
 bird1 = Sparrow()
 bird2 = Parrot()
 
 # Calling speak() - Polymorphism
-bird1.speak()  # Output: Chirp Chirp 🐦
-bird2.speak()  # Output: Squawk! 🦜
+bird1.speak()  # Output: Chirp Chirp 
+bird2.speak()  # Output: Squawk! 

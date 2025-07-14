@@ -1,18 +1,18 @@
 class Dog:
     def sound(self):
-        return "Bark 🐶"
+        return "Dog - Bark"
 
 class Cat:
     def sound(self):
-        return "Meow 🐱"
+        return "Cat - Meow"
 
 class Lion:
     def sound(self):
-        return "Roar 🦁"
+        return "Lion - Roar"
 
 class Elephant:
     def sound(self):
-        return "Trumpet 🐘"
+        return "Elephant - Trumpet"
 
 # Creating a list of different animal objects
 animals = [Dog(), Cat(), Lion(), Elephant()]

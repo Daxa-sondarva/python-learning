@@ -1,3 +1,6 @@
+'''Python does not support traditional method overloading like other languages (Java, C++). 
+That means you cannot define multiple methods with the same name but different arguments.'''
+
 class Calculator:
     def add(self, a, b, c=0):
         return a + b + c  # Third parameter is optional
