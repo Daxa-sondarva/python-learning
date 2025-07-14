@@ -16,7 +16,7 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 7   | Functions in Python           | def, return, parameters, default args,*args, **kwargs, lambda, pass-by-reference,      |
 |    | How to get function name in Python |using  function.__name__ , using  __qualname__ ,  and using function.func_name - only in python 2 |
 | 8  | OOP + Project: Bank System        | Encapsulation, custom exceptions, secure PIN, deposit/withdraw, transfer    |
-| 9   | Abstract Classes & Inheritance    | Using `ABC`, abstract methods, subclass implementation                      |
+| 9   | Abstract Classes & Inheritance & polymorphism  | Using `ABC`, abstract methods, subclass ,method overloding,operator overloading, method overriding,implementation                      |
 | 10   | Constructor vs Method             | `__init__`, object creation with/without arguments                          |
 | 11  | File Handling (Text Files)        | open(), read(), write(), close(), using `with open()` block                 |
 | 12  | CSV File Handling                 | Reading/writing CSV using `csv.reader`, `csv.writer`                        |
