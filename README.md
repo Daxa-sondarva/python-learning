@@ -20,10 +20,10 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 10   | Constructor vs Method             | `__init__`, object creation with/without arguments                          |
 | 11  | File Handling (Text Files)        | open(), read(), write(), close(), using `with open()` block                 |
 | 12  | CSV File Handling                 | Reading/writing CSV using `csv.reader`, `csv.writer`                        |
-| 12  | Excel File Handling               | Creating `.xlsx`, writing headers/data using `openpyxl`                     |
+| 13  | Excel File Handling               | Creating `.xlsx`, writing headers/data using `openpyxl`                     |
 | 14  | Excel Data Read & Append          | Read data row-by-row, append new rows, save updates                         |
 | 15  | JSON File Handling                | Reading, writing, parsing JSON with `json.load()` & `json.dump()`           |
-
+| 16+ | Data Structures in Python            | List, Tuple, Set, Dictionary with code examples                                                  | 
 
 
 
