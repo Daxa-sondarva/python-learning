@@ -25,7 +25,36 @@ I am learning Python step by step and uploading my daily/weekly progress here.
 | 15  | JSON File Handling                | Reading, writing, parsing JSON with `json.load()` & `json.dump()`           |
 | 16+ | Data Structures in Python            | List, Tuple, Set, Dictionary with code examples                                                  | 
 
+# Juno Certificate of Completion 🎓
 
+![Juno Certificate](./your-certificate-file-name.jpg) <!-- Replace with actual file name -->
+
+## ✅ Course Overview
+
+This certificate was awarded after completing the **Juno course on Python Programming / Data Science**.  
+The course covered key concepts including:
+
+- Python Basics and Syntax
+- Data Analysis with Pandas and NumPy
+- Data Visualization
+- Working with APIs and JSON
+- Real-world Projects
+
+## 💡 Skills Gained
+
+- Data manipulation using Pandas
+- Problem-solving using Python
+- Data cleaning & processing
+- API handling
+
+## 📌 Why This Certificate Matters
+
+Completing this course helped me build practical skills and deepen my knowledge in data science.  
+It reflects my commitment to continuous learning and professional growth.
+
+---
+
+🗂️ Certificate is available [here](./your-certificate-file-name.pdf)
 
 ## About Me
 - BCA (2020), MSc IT & CA (2022)
