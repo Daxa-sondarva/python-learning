@@ -63,7 +63,7 @@ The course was designed to teach Python programming from basic to advanced level
 
 ## 🔗 View Certificate
 
-[📄 Click here to view/download the certificate](./Juno_Certificate_Daxa%20Sondarva_Python_Full_Course_in_Hindi.pdf)
+[📄 Click here to view the certificate](./Juno_Certificate_Daxa%20Sondarva_Python_Full_Course_in_Hindi.pdf)
 
 ---
 
